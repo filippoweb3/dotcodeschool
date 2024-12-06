@@ -1,0 +1,3 @@
+[submodule "substrate-collectables-workshop"]
+	path = substrate-collectables-workshop
+	url = ./substrate-collectables-workshop
